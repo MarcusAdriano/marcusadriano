@@ -2,7 +2,7 @@
 
 I'm Marcus Adriano. 
 
-Just computer science student and mobile development passionate.
+Just computer science student at Federal University of Uberlandia and mobile development passionate.
 
 - 🔭  I’m currently working on Bradesco S.A. as System Analyst
 - 🌱  I’m currently learning iOS Development with SwiftUI:
