@@ -11,7 +11,7 @@ Just computer science student at Federal University of Uberlandia.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusadriano/)](https://www.linkedin.com/in/marcusadriano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcusadriano.pereira@gmail.com)](mailto:marcusadriano.pereira@gmail.com)
 
-- 🔍  Interests: Java, SpringBoot
+- 🔍  Interests: Backend developer
 <!--
 **MarcusAdriano/marcusadriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
